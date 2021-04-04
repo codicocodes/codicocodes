@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-[<img src="https://api.speedtyper.dev/users/codicocodes/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="35">](https://www.speedtyper.dev/profile/codicocodes) 
-[<img src="https://api.speedtyper.dev/users/codicocodes/badges/topwpm" alt="SpeedTyper.dev top wpm" height="35">](https://www.speedtyper.dev/profile/codicocodes) 
-[<img src="https://api.speedtyper.dev/users/codicocodes/badges/gamecount" alt="SpeedTyper.dev games" height="35">](https://www.speedtyper.dev/profile/codicocodes)
+[<img src="https://api.speedtyper.dev/users/codicocodes/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/codicocodes) 
+[<img src="https://api.speedtyper.dev/users/codicocodes/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/codicocodes) 
+[<img src="https://api.speedtyper.dev/users/codicocodes/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/codicocodes)
 
 
 - ⌨️  I’m currently working on [SpeedTyper](https://speedtyper.dev)
