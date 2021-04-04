@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![SpeedTyper.dev avg wpm](https://api.speedtyper.dev/users/codicocodes/badges/averagewpm)](https://www.speedtyper.dev/profile/codicocodes)
-[![SpeedTyper.dev top wpm](https://api.speedtyper.dev/users/codicocodes/badges/topwpm)](https://www.speedtyper.dev/profile/codicocodes)
-[![SpeedTyper.dev games](https://api.speedtyper.dev/users/codicocodes/badges/gamecount)](https://www.speedtyper.dev/profile/codicocodes)
+
+[<img src="https://api.speedtyper.dev/users/codicocodes/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="35">](https://www.speedtyper.dev/profile/codicocodes) 
+[<img src="https://api.speedtyper.dev/users/codicocodes/badges/topwpm" alt="SpeedTyper.dev top wpm" height="35">](https://www.speedtyper.dev/profile/codicocodes) 
+[<img src="https://api.speedtyper.dev/users/codicocodes/badges/gamecount" alt="SpeedTyper.dev games" height="35">](https://www.speedtyper.dev/profile/codicocodes)
+
 
 - ⌨️  I’m currently working on [SpeedTyper](https://speedtyper.dev)
 - 📺  I stream live on [Twitch](https://twitch.tv/codico)
