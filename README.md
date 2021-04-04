@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
 [![SpeedTyper.dev avg wpm](https://api.speedtyper.dev/users/codicocodes/badges/averagewpm)](https://www.speedtyper.dev/profile/codicocodes)
 [![SpeedTyper.dev top wpm](https://api.speedtyper.dev/users/codicocodes/badges/topwpm)](https://www.speedtyper.dev/profile/codicocodes)
 [![SpeedTyper.dev games](https://api.speedtyper.dev/users/codicocodes/badges/gamecount)](https://www.speedtyper.dev/profile/codicocodes)
-              
 
 <!--
 **codicocodes/codicocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
