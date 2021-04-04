@@ -1,7 +1,9 @@
 ### Hi there 👋
+[![SpeedTyper.dev WPM](https://api.speedtyper.dev/users/codicocodes/badges/averagewpm)](https://www.speedtyper.dev/profile/codicocodes)
 
 <!--
 **codicocodes/codicocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
