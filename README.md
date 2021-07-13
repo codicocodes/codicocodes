@@ -6,9 +6,9 @@
 [<img src="https://api.speedtyper.dev/users/codicocodes/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/codicocodes)
 
 
-- ⌨️  I’m currently working on [SpeedTyper](https://speedtyper.dev)
-- 📺  I stream live on [Twitch](https://twitch.tv/codico)
-- 💬  Say hello on [Discord](https://discord.com/invite/AMbnnN5eep)
+- ⌨️   I’m currently working on [SpeedTyper](https://speedtyper.dev)
+- 📺   I stream live on [Twitch](https://twitch.tv/codico)
+- 💬   Say hello on [Discord](https://discord.com/invite/AMbnnN5eep)
 <!--
 **codicocodes/codicocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
