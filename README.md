@@ -7,7 +7,7 @@
 
 
 - ⌨️   Creator of [SpeedTyper](https://speedtyper.dev)
-- 🔎   Currently working on CodeGuessr
+- 🔎   Working on CodeGuessr
 - 📺   I stream live on [Twitch](https://twitch.tv/codico)
 - 💬   Say hello on [Discord](https://discord.com/invite/AMbnnN5eep)
 <!--
