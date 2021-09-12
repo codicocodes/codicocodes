@@ -6,7 +6,8 @@
 [<img src="https://api.speedtyper.dev/users/codicocodes/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/codicocodes)
 
 
-- ⌨️   I’m currently working on [SpeedTyper](https://speedtyper.dev)
+- ⌨️   Creator of [SpeedTyper](https://speedtyper.dev)
+- 🔎   Currently working on CodeGuessr
 - 📺   I stream live on [Twitch](https://twitch.tv/codico)
 - 💬   Say hello on [Discord](https://discord.com/invite/AMbnnN5eep)
 <!--
