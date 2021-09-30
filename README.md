@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://twitch.tv/codico"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitch.svg" /></a>
 <a href="https://discord.gg/AMbnnN5eep"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" /></a>
-<a href="https://twitter.tv/codicocodes"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
+<a href="https://twitter.com/codicocodes"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
 
 </p>
 
