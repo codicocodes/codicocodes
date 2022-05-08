@@ -7,7 +7,7 @@
 
 </p>
 
-Hey there, nice to meet you! I enjoy building things using mostly TypeScript, NodeJS and React, currently I am learning Golang. I built [SpeedTyper.dev](https://speedtyper.dev) and I am currently working on CodeGuessr, all while streaming live on [Twitch](https://twitch.tv/codico). Say hello on [Discord](https://discord.com/invite/AMbnnN5eep)!
+Hey there! I enjoy building things using Golang, TypeScript, NodeJS and React. I built [SpeedTyper.dev](https://speedtyper.dev) and I am currently working on CodeGuessr, while streaming live on [Twitch](https://twitch.tv/codico). Say hello on [Discord](https://discord.com/invite/AMbnnN5eep)!
 
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg" />
