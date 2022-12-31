@@ -22,6 +22,6 @@ Say hello on [Discord](https://discord.com/invite/AMbnnN5eep)!
 
 <h3>SpeedTyper.dev stats:</h3>
 
-[<img src="https://api.speedtyper.dev/users/codicocodes/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="20">](https://www.speedtyper.dev/profile/codicocodes) 
-[<img src="https://api.speedtyper.dev/users/codicocodes/badges/topwpm" alt="SpeedTyper.dev top wpm" height="20">](https://www.speedtyper.dev/profile/codicocodes) 
-[<img src="https://api.speedtyper.dev/users/codicocodes/badges/gamecount" alt="SpeedTyper.dev games" height="20">](https://www.speedtyper.dev/profile/codicocodes)
+[<img src="https://v2.speedtyper.dev/users/codicocodes/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="20">](https://www.speedtyper.dev/profile/codicocodes) 
+[<img src="https://v2.speedtyper.dev/users/codicocodes/badges/topwpm" alt="SpeedTyper.dev top wpm" height="20">](https://www.speedtyper.dev/profile/codicocodes) 
+[<img src="https://v2.speedtyper.dev/users/codicocodes/badges/gamecount" alt="SpeedTyper.dev games" height="20">](https://www.speedtyper.dev/profile/codicocodes)
