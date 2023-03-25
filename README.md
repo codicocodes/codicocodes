@@ -7,7 +7,12 @@
 
 </p>
 
-Hey there! I enjoy building things using Golang, TypeScript, NodeJS and React. I built [SpeedTyper.dev](https://speedtyper.dev) - a multiplayer typing app for programmers and I am currentltly learning [distributed systems](https://github.com/codicocodes/distributed-systems-mit-6.824) by implementing a distributed key value service with strong consensus following the MIT-6.824 course. 
+I enjoy learning and building things. Interested in distributed systems.
+
+- [SpeedTyper.dev](https://speedtyper.dev) - multiplayer typing app for programmers
+- [Dotfyle](https://dotfyle.com) - discover and share Neovim configs and plugins
+- [kv-raft](https://github.com/codicocodes/kv-raft) - raft consensun implementation in go
+- [dotfiles](https://github.com/codicocodes/dotfiles) - Neovim config and more
 
 I stream programming live on [Twitch](https://twitch.tv/codico). 
 
