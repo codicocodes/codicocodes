@@ -12,16 +12,3 @@ Hey there! I enjoy building things using Golang, TypeScript, NodeJS and React. I
 I stream programming live on [Twitch](https://twitch.tv/codico). 
 
 Say hello on [Discord](https://discord.com/invite/AMbnnN5eep)!
-
-<p>&nbsp;</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codicocodes&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="codico" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codicocodes&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="codico" /></p>
-
-
-<h3>SpeedTyper.dev stats:</h3>
-
-[<img src="https://v2.speedtyper.dev/users/codicocodes/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="20">](https://www.speedtyper.dev/profile/codicocodes) 
-[<img src="https://v2.speedtyper.dev/users/codicocodes/badges/topwpm" alt="SpeedTyper.dev top wpm" height="20">](https://www.speedtyper.dev/profile/codicocodes) 
-[<img src="https://v2.speedtyper.dev/users/codicocodes/badges/gamecount" alt="SpeedTyper.dev games" height="20">](https://www.speedtyper.dev/profile/codicocodes)
